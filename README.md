@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rhask87062/rhask87062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Russell! 👋
 
-Here are some ideas to get you started:
+**Full-Stack Developer from Houston, TX**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About Me
+
+I'm a full-stack developer focusing on React/TypeScript applications with AI integration. Currently exploring Python data analysis and ML systems to build intelligent automation tools that enhance productivity and creativity.
+
+### 🔭 Current Projects
+
+- AI Video Editor - Intelligent video processing and editing
+- Claude Code Config - Streamlining development workflows
+- Chores & Rewards App - TypeScript application with Convex backend
+
+### 💻 Tech Stack
+
+```javascript
+const russell = {
+    languages: ['TypeScript', 'JavaScript', 'Python'],
+    frontend: ['React', 'HTML', 'CSS'],
+    ai_ml: ['Data Analysis', 'Machine Learning'],
+    interests: ['AI Integration', 'Automation', 'Developer Tools']
+};
+```
+
+### 🌱 Currently Learning
+
+- Advanced AI/ML Integration
+- Python Data Analysis
+- System Automation
+
+### 📫 Connect With Me
+
+- GitHub: Right here! 😊
+- Location: Houston, TX
+
+---
+
+<div align="center">
+
+*Building tools that make development more efficient and enjoyable*
+
+</div>
